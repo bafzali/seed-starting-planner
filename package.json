@@ -1,5 +1,5 @@
 {
-  "name": "seedling-shop",
+  "name": "seedling-planner",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,5 +11,10 @@
     "next": "10.0.7",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.3"
   }
 }
